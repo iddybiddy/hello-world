@@ -1,2 +1,3 @@
 # hello-world
 Brand new repository
+Am diving into the world of programming, and it all starts here....
